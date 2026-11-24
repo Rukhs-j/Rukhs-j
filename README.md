@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner-animated.svg"
+  <img src="assets/profile-banner-animated.svg"
        alt="Rukhsar Jamadar — Software Engineer"
        width="100%" />
 </p>
