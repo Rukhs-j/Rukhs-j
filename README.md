@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./profile-banner.svg" alt="Rukhsar Jamadar — Software Engineer exploring Python, GenAI, and backend development" width="100%" />
+  <img src="./profile-banner-animated.svg"
+       alt="Rukhsar Jamadar — Software Engineer"
+       width="100%" />
 </p>
 
 <p align="center">
