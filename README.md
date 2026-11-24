@@ -40,35 +40,36 @@ I use this space to share projects, document what I learn, and improve through h
 
 ## Project shelf
 
-Explore my application projects and learning repositories.
+Python applications built with **FastAPI and SQLite**, exploring reliable backend workflows and practical GenAI integration.
 
 <p align="center">
-  <a href="https://github.com/Rukhs-j/GenAI">
-    <img src="./project-genai.svg" alt="GenAI — open repository" width="49%" />
-  </a>
-  <a href="https://github.com/Rukhs-j/First-Dynamic-Web">
-    <img src="./project-web.svg" alt="First-Dynamic-Web — open repository" width="49%" />
-  </a>
-  <a href="https://github.com/Rukhs-j/BankGUISystem">
-    <img src="./project-bank.svg" alt="BankGUISystem — open repository" width="49%" />
-  </a>
-  <a href="https://github.com/Rukhs-j/HospitalManagement">
-    <img src="./project-hospital.svg" alt="HospitalManagement — open repository" width="49%" />
-  </a>
+  <a href="https://github.com/Rukhs-j/docquery-ai"><img src="./shelf-docquery.svg" alt="DocQuery AI — Document search & source-grounded answers" width="49%" /></a>
+  <a href="https://github.com/Rukhs-j/Supportdesk-ai-python"><img src="./shelf-supportdesk.svg" alt="SupportDesk AI — Support tickets & evidence-based reply drafts" width="49%" /></a>
 </p>
 
-**More practice:** [C programming](https://github.com/Rukhs-j/MyC_Code) · [All repositories](https://github.com/Rukhs-j?tab=repositories)
+<p align="center">
+  <a href="https://github.com/Rukhs-j/orderflow-backend-python"><img src="./shelf-orderflow.svg" alt="OrderFlow — Orders, inventory & transaction-safe workflows" width="49%" /></a>
+  <a href="https://github.com/Rukhs-j/customer-sync-service"><img src="./shelf-syncbridge.svg" alt="SyncBridge — Customer imports & resilient synchronization" width="49%" /></a>
+</p>
+
+<p align="center">
+  <img src="./shelf-incidentlens.svg" alt="IncidentLens AI — log investigation project; repository coming soon" width="100%" />
+</p>
 
 <details>
-<summary><strong>Browse project links</strong></summary>
+<summary><strong>Project descriptions and links</strong></summary>
 
-- [GenAI](https://github.com/Rukhs-j/GenAI)
-- [First-Dynamic-Web](https://github.com/Rukhs-j/First-Dynamic-Web)
-- [BankGUISystem](https://github.com/Rukhs-j/BankGUISystem)
-- [HospitalManagement](https://github.com/Rukhs-j/HospitalManagement)
-- [MyC_Code](https://github.com/Rukhs-j/MyC_Code)
+- **[DocQuery AI](https://github.com/Rukhs-j/docquery-ai)** — Document search & source-grounded answers.
+- **[SupportDesk AI](https://github.com/Rukhs-j/Supportdesk-ai-python)** — Support tickets & evidence-based reply drafts.
+- **[OrderFlow](https://github.com/Rukhs-j/orderflow-backend-python)** — Orders, inventory & transaction-safe workflows.
+- **[SyncBridge](https://github.com/Rukhs-j/customer-sync-service)** — Customer imports & resilient synchronization.
+- **IncidentLens AI** — log grouping, incident tracking and optional AI troubleshooting guidance. Repository coming soon.
 
 </details>
+
+*AI features use an offline retrieval demo by default, with optional Ollama integration. Payments and CRM operations are simulated.*
+
+[Browse all my repositories →](https://github.com/Rukhs-j?tab=repositories)
 
 ## Next chapter
 
